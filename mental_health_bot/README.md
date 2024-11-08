@@ -27,7 +27,7 @@ Sign up or log in at [Vultr.com](https://www.vultr.com).
 1. Go to the Vultr dashboard.
 2. Click on + **Deploy Instance**.
 3. Select **Cloud Compute** and choose a server location close to your region for better performance.
-4. Choose an Operating System (recommended: Ubuntu 20.04).
+4. Choose an Operating System.
 5. Select a **Server Size** based on your needs (a small instance is usually sufficient).
 
 ### Connect to the Server
